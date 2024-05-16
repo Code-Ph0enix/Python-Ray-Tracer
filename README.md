@@ -20,6 +20,7 @@ A simple python ray tracer that runs on the CPU.
 - https://www.image-engineering.de/library/technotes/958-how-to-convert-between-srgb-and-ciexyz
 
 ## Requirements:
+
 -numpy
 -matplotlib
 -opencv-python
