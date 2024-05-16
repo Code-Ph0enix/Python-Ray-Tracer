@@ -20,17 +20,7 @@ A simple python ray tracer that runs on the CPU.
 - https://www.image-engineering.de/library/technotes/958-how-to-convert-between-srgb-and-ciexyz
 
 ## Requirements:
- Markup : * Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
 
--OR-
-
- Markup : - Bullet list
-              - Nested bullet
-                  - Sub-nested bullet etc
-          - Bullet list item 2 
--numpy
--matplotlib
--opencv-python
+- numpy
+- matplotlib
+- opencv-python
