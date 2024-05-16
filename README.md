@@ -18,3 +18,8 @@ A simple python ray tracer that runs on the CPU.
 - https://medium.com/swlh/ray-tracing-from-scratch-in-python-41670e6a96f9
 - https://en.wikipedia.org/wiki/Blinn–Phong_reflection_model
 - https://www.image-engineering.de/library/technotes/958-how-to-convert-between-srgb-and-ciexyz
+
+## Requirements:
+-numpy
+-matplotlib
+-opencv-python
