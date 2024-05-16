@@ -21,6 +21,6 @@ A simple python ray tracer that runs on the CPU.
 
 ## Requirements:
 
--numpy
+*Bullet list-numpy
 -matplotlib
 -opencv-python
